@@ -8,11 +8,9 @@
 - Power BI
 
 ### Education
-B.S., Data Science (ongoing) | Virtual University of the State of São Paulo (Univesp) | july 2024 - present
-
-M.S., History (ongoing) | State University of Campinas (Unicamp) | jan 2022 - present
-
-B.S., History | State University of Campinas (Unicamp) | jan 2017 - dec 2021
+- B.S., Data Science (ongoing) | Virtual University of the State of São Paulo (Univesp) | july 2024 - present
+- M.S., History (ongoing) | State University of Campinas (Unicamp) | jan 2022 - present
+- B.S., History | State University of Campinas (Unicamp) | jan 2017 - dec 2021
 
 
 ### Projects
