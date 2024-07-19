@@ -17,7 +17,7 @@
 ---
 
 ## Projects
-###1. Power BI and gym data (learning project)
+### 1. Power BI and gym data (learning project)
 
 Utilizing Microsoft Power BI, I conducted a comprehensive analysis of bodyweight and workout data spanning a seven-year period (2016-2023). The project culminated in the creation of a suite of annual dashboards, each providing a focused analysis of a specific year's data. Additionally, a consolidated dashboard was developed, offering a holistic view of all the analyzed data.
 
@@ -26,8 +26,7 @@ Utilizing Microsoft Power BI, I conducted a comprehensive analysis of bodyweight
 
 
 **Key takeaways**
-- a) Use of colors to highlight certain information, such as workout frequency throughout the years.
-- b) Graph choice when dealing with different kinds of information, particulary when choosing a pie chart only to represent binary information.
-- c) Certain kinds of data (such as bodyweight) give little information when taken in the aggregate, while others (such as workout frequency) can show patterns even when considering the holistic approach.
-
+- a) Graph choice adequate to different kinds of information (bar chart for categorical data, pie chart for binary information, line chart to visualize change over time).
+- b) Use of colors to highlight certain information (i.e. workout frequency throughout the years).
+- c) A holistic approach is more useful when dealing with certain kinds of data (i.e. workout frequency), while providing less insight with other kinds (i.e. bodyweight).
 
