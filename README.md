@@ -27,6 +27,6 @@ Utilizing Microsoft Power BI, I conducted a comprehensive analysis of bodyweight
 
 **Key takeaways**
 - a) Graph choice adequate to different kinds of information (bar chart for categorical data, pie chart for binary information, line chart to visualize change over time).
-- b) Use of colors to highlight certain information (i.e. workout frequency throughout the years).
-- c) A holistic approach is more useful when dealing with certain kinds of data (i.e. workout frequency), while providing less insight with other kinds (i.e. bodyweight).
+- b) Use of colors to highlight certain information (e.g. workout frequency throughout the years).
+- c) A holistic approach is more useful when dealing with certain kinds of data (e.g. workout frequency), while providing less insight with other kinds (e.g. bodyweight).
 
