@@ -19,6 +19,8 @@
 ## Projects
 ### 1. Power BI and gym data (learning project)
 
+**Skills:** Power BI | Storytelling
+
 Utilizing Microsoft Power BI, I conducted a comprehensive analysis of bodyweight and workout data spanning a seven-year period (2016-2023). The project culminated in the creation of a suite of annual dashboards, each providing a focused analysis of a specific year's data. Additionally, a consolidated dashboard was developed, offering a holistic view of all the analyzed data.
 
 **Consolidated workout data**
