@@ -5,7 +5,7 @@
 
 - Statistics ([Alura](https://cursos.alura.com.br/degree/certificate/4994464b-89b9-4807-a8c2-a594cc8dd605?lang=pt_BR))
 
-- SQL
+- SQL ([Alura](https://cursos.alura.com.br/degree/certificate/46603056-f8fb-4322-a4ad-9b6fcb3771de?lang=pt_BR))
 
 - Power BI
 
