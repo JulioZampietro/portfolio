@@ -32,8 +32,7 @@ Through SQL, Python and statistical knowledge I conducted an EDA on Olympic data
 
 - The conclusions suggest that a path forward is for countries to increase sports spending across the board, contrary to focusing on individual categories that provide a greater medal-opportunity-per-athlete ratio.
 
-![](/assets/img/Figure1. Athletes x medals.png)
-
+![](/assets/img/Figure1._Athletes_x_medals.png)
 
 
 ### 2. Power BI and gym data (learning project)
