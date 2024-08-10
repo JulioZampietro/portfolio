@@ -20,7 +20,7 @@
 ---
 
 ## Projects
-### 1. Exploratory Data Analysis: 2021 Tokyo Olympics total medals
+### 1. Exploratory Data Analysis: 2021 Tokyo Olympics total medals ([Repository](https://github.com/JulioZampietro/2021-Olympics-EDA))
 
 **Skills:** SQL / Python (Pandas, Matplotlib, Seaborn) / Statistics / Storytelling
 
