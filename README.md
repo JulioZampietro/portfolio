@@ -20,7 +20,23 @@
 ---
 
 ## Projects
-### 1. Power BI and gym data (learning project)
+### 1. Exploratory Data Analysis: 2021 Tokyo Olympics total medals
+
+**Skills:** SQL / Python (Pandas, Matplotlib, Seaborn) / Statistics / Storytelling
+
+Through SQL, Python and statistical knowledge I conducted an EDA on Olympic data from 2021 with the following conclusions:
+
+- There is a strong correlation between total medals, total GDP (0.831), competing athletes (0.875), and total sports spending (0.817), while per capita measures had weak correlations (less than 0.3).
+
+- Countries that sent more than average athletes from collective sports greatly outperformed those focused primarily on individual sports.
+
+- The conclusions suggest that a path forward is for countries to increase sports spending across the board, contrary to focusing on individual categories that provide a greater medal-opportunity-per-athlete ratio.
+
+![](/assets/img/Figure1. Athletes x medals.png)
+
+
+
+### 2. Power BI and gym data (learning project)
 
 **Skills:** Power BI / Storytelling
 
