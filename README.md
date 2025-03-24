@@ -9,13 +9,16 @@
 
 - Power BI
 
+- Microsoft Excel
+
 ---
 
 ## Education
-- B.S., Data Science (ongoing) | Virtual University of the State of São Paulo (Univesp) | july 2024 - present
-- M.S., History (ongoing) | State University of Campinas (Unicamp) | jan 2022 - present
-- B.S., History | State University of Campinas (Unicamp) | jan 2017 - dec 2021
-- B.S., Civil Engineering | State University of São Paulo (Unesp) | jan 2015 - dec 2016
+- B.S., Data Science (ongoing) | Virtual University of the State of São Paulo (Univesp) | 2024 - present
+- Specialization course in Swift programming (ongoing) | Apple Developer Academy | 2025 - present
+- M.S., History | State University of Campinas (Unicamp) | 2022 - 2025
+- B.S., History | State University of Campinas (Unicamp) | 2017 - 2021
+- B.S., Civil Engineering | State University of São Paulo (Unesp) | 2015 - 2016
 
 ---
 
