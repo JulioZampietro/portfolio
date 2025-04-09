@@ -23,7 +23,24 @@
 ---
 
 ## Projects
-### 1. Exploratory Data Analysis: 2021 Tokyo Olympics total medals ([Repository](https://github.com/JulioZampietro/2021-Olympics-EDA))
+### 1. Analysis of the Trajectories of Alumni from a Top-Ranking Brazilian University ([Repository](https://github.com/JulioZampietro/Alumni_excel))
+
+**Skills:** Microsoft Excel / Storytelling
+
+I used Microsoft Excel to study the trajectories of over 400 alumni from a graduate course in History from a top-ranking Brazilian university. My main conclusions were (also summarized in the dashbord within the project):
+
+-  The vast majority of alumni attained teaching or research roles.
+
+-  Alumni often did not stray too far from the University's state, as little over 25% of them effectively left their state's region.
+
+-  From those alumni who pursued a teaching career, over half of them attained positions as higher education professors, which helps to attest the quality of the graduate program.
+
+-  While alumni who attained a PhD represent the majority of those in teaching roles, terminal MA holders represent the vast majority of those who pursued a career in the private sector.
+
+![](/assets/img/Post_picture_excel_alumni.png)
+
+
+### 2. Exploratory Data Analysis: 2021 Tokyo Olympics total medals ([Repository](https://github.com/JulioZampietro/2021-Olympics-EDA))
 
 **Skills:** SQL / Python (Pandas, Matplotlib, Seaborn) / Statistics / Storytelling
 
@@ -38,7 +55,7 @@ Through SQL, Python and statistical knowledge I conducted an EDA on Olympic data
 ![](/assets/img/Figure1._Athletes_x_medals.png)
 
 
-### 2. Power BI and gym data (learning project)
+### 3. Power BI and gym data (learning project)
 
 **Skills:** Power BI / Storytelling
 
